@@ -1,0 +1,55 @@
+body
+{
+    font-family: Arial;
+    font-size: 14px;
+    background-color:#333333;
+    text-shadow:-1px 2px 8px #89a7cc;
+}
+
+.boxgame
+{  
+    background-color: green;
+    border:inset 6px #5151db;
+    border: 2px solid black;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-top: -3px;
+    box-shadow: 10px 10px 5px;
+    border:ridge 4px #010852;
+}
+.escenario 
+{
+    background-color: white;
+
+
+}
+.clicked {
+    background-color: green;
+
+}
+#boxcontent{
+    margin: auto; 
+    text-align: center;
+
+}
+#BaseCuadro{
+    width: 100%;
+
+
+}
+#Start{
+    margin: auto; 
+    text-align: center;
+    height: 35px;
+    width: 80px;
+    border-radius: 80px;
+
+}
+#Check{
+        
+
+}
+#scoretxt{
+    font-size: 20px;
+}
